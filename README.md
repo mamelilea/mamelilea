@@ -3,6 +3,7 @@
 ## 🚀 Quick Facts
 
 - 🎓 Information Technology Education at Brawijaya University
+- 🔭 Currently learning more about Software Engineering
 
 ## 🛠️Technology
 
@@ -44,9 +45,5 @@
 
 
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mamelilea/mamelilea/output/snake.svg" alt="Snake animation" />
 
 ###

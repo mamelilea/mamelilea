@@ -40,7 +40,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamelilea&theme=radical&line)](https://github.com/anuraghazra/github-readme-stats)
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamelilea&theme=tokyonight)
   
-  [![Achmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mamelilea&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 </div>
@@ -48,3 +48,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mamelilea/mamelilea/output/snake.svg" alt="Snake animation" />
+
+###

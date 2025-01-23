@@ -23,6 +23,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Material](https://img.shields.io/badge/materialize-%23727272.svg?style=for-the-badge&logo=materialize&logoColor=white)
 
 
 ## 📱Social Media

@@ -40,12 +40,9 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamelilea&theme=radical&line)](https://github.com/anuraghazra/github-readme-stats)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamelilea&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamelilea&theme=tokyonight)
   
-
-
-
 </div>
 
 ###

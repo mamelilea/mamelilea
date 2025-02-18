@@ -39,11 +39,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamelilea&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamelilea&theme=tokyonight)
-  
+  ![Achmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamelilea&show_icons=true&theme=onedark)<br/>
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamelilea&theme=tokyonight)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamelilea&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 </div>
 
 ###

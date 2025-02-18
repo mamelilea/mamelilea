@@ -3,7 +3,10 @@
 ## 🚀 Quick Facts
 
 - 🎓 Information Technology Education at Brawijaya University
-- 🔭 Currently learning more about Software Engineering
+- 🔭 Currently deep diving into Front-End Development
+- 💻 Front-End Developer by day, Debugger by night
+- 📌 Ctrl + C, Ctrl + V Specialist
+- ⚡ AI Prompting Master: "Code please!"
 
 ## 🛠️Technology
 
